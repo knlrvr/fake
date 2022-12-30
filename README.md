@@ -15,7 +15,9 @@ sections, and the floating buttons on those sections). Completely unbiased and r
 ## Improve Performance on CSS Animations
 If you must use CSS animations, trick your device. Add 'transform: translate3d(0, 0, 0)', 'transform: translateZ(0)' or 'transform: rotateZ(360deg)'. This will cut down CPU usage and take advantage of your GPU. I highly recommend the last option, should animations be absolutely crucial to your site. 
 
-If none of the tricks here work, use a gif instead. It will perform better, and that's really the entire goal.   
+If none of the tricks here work, use a gif instead. It will perform better, and that's really the entire goal. 
+
+Another note; don't take my word for any of this. This is just my experience and my suggestions based on that experience. 
 
 ## View
 [Live Demo](https://knlrvr.github.io/fake)
