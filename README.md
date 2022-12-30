@@ -17,7 +17,7 @@ If you must use CSS animations, trick your device. Add 'transform: translate3d(0
 
 If none of the tricks here work, use a gif instead. It will perform better, and that's really the entire goal. 
 
-Another note; don't take my word for any of this. This is just my experience and my suggestions based on that experience. 
+Another note; don't take my word for any of this. This is just my experience and my suggestions based on that experience. But use a gif. 
 
 ## View
 [Live Demo](https://knlrvr.github.io/fake)
