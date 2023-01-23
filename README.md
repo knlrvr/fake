@@ -19,6 +19,6 @@ Another note; don't take my word for any of this.
 [Live Demo](https://knlrvr.github.io/fake)
 
 ## Built With 
-- HTML
-- CSS
-- JavaScript (minimal, for mobile menu)
+> HTML
+> CSS
+> JavaScript (minimal, for mobile menu)
