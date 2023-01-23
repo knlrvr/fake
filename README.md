@@ -13,7 +13,7 @@ If none of the tricks here work, use a gif instead. It will perform better, and 
 
 Another note; don't take my word for any of this. 
 
-> *insert 'it works on my machine' meme here* <
+> *insert 'it works on my machine' meme here* 
 
 ## View
 [Live Demo](https://knlrvr.github.io/fake)
