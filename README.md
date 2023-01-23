@@ -21,4 +21,4 @@ Another note; don't take my word for any of this.
 ## Built With 
 - HTML
 - CSS
-- JavaScript (minimal, for mobile menu)
+- JavaScript (minimal, for mobile menu) 
